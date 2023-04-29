@@ -190,41 +190,5 @@ margin: 0 0 10px;
 }
 
 
-@media(max-width: 1200px){
-    .headline-ing{
-        max-width: 100%;
-    }
-}
-@media(max-width: 560px){
-    .title{
-        font-size: 34px;
-        line-height: 42px;
-    }
 
-    .headline-btn{
-        font-size: 18px;
-        line-height: 22px;
-        padding: 16px 90px;
-    }
-} 
-@media(max-width: 940px){
-    .images-new{
-        display: none;
-    }
-    .new-text p, .new-text b{
-        max-width: 100%;
-    }
-    .new-title, .color-title{
-        font-size: 28px;
-        line-height: 32px;
-    }
-}@media(max-width: 110px){
-    .color-list{
-        flex-wrap:wrap ;
-    }
-    .color-item{
-        width: 50%;
-        margin-bottom: 30px;
-    }
-}
 
